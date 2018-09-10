@@ -146,8 +146,8 @@ export default class LogIn extends Component {
                             </Item>
 
                             <Button block style={{margin:40}}>
-                                <Text>Back</Text>
-                                <Icon name='arrow-back' />
+                                <Text>Login</Text>
+                                <Icon name='arrow-forward' />
                             </Button>
                         </Form>
                 </Content>
